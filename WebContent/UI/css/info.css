@@ -1,0 +1,23 @@
+@CHARSET "ISO-8859-1";
+
+@font-face {
+	font-family: cinzel;
+	src: url(../fonts/Cinzel-Regular.otf);
+	font-family: cinzel-black;
+	src: url(../fonts/Cinzel-Black.otf);
+	font-family: cinzel-bold;
+	src: url(../fonts/Cinzel-Bold.otf);
+	font-family: cinzeldecorative-black;
+	src: url(../fonts/CinzelDecorative-Black.otf);
+	font-family: cinzeldecorative-Bold;
+	src: url(../fonts/CinzelDecorative-Bold.otf);
+	font-family: cinzeldecorative;
+	src: url(../fonts/CinzelDecorative-Regular.otf);
+}
+
+.info-metricks {
+	font-size: 20pt;
+	font-family: cinzeldecorative;
+	color: green;
+	background-color: transparent;
+}
